@@ -1,0 +1,27 @@
+{
+  "name": "simplesmtp",
+  "version": "1.0.0",
+  "description": "Provides simple SMTP interface and prints out requests on console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernd Mueller",
+  "license": "MIT",
+  "dependencies": {
+    "smtp-server": "^3.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBMueller/simpleSmtpMock.git"
+  },
+  "keywords": [
+    "smtp",
+    "mock"
+  ],
+  "bugs": {
+    "url": "https://github.com/DrBMueller/simpleSmtpMock/issues"
+  },
+  "homepage": "https://github.com/DrBMueller/simpleSmtpMock#readme"
+}
